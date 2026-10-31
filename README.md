@@ -71,9 +71,9 @@ The table below lists leading commercial CRM and sales engagement suites, sorted
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-The table below lists top open-source CRM platforms, sales engagement automation suites, and outbound outreach tools, ranked in descending order by **GitHub Star Count**.
+The table below lists top open-source CRM platforms, sales engagement automation suites, and outbound outreach tools, ranked in descending order by **GitHub Stars_Count**.
 
-| Repository | ⭐ Stars | 🎯 Primary Focus &amp; Architecture | 📜 License |
+| Repository | ⭐ GitHub_Stars | 🎯 Primary Focus &amp; Architecture | 📜 License |
 | :--- | :--- | :--- | :--- |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Modern Salesforce CRM alternative; custom objects, Kanban pipelines, and MCP support for AI agents | AGPLv3 |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Comprehensive modular ERP/CRM suite; opportunity tracking, automated lead routing, and quotation engine | LGPLv3 |
@@ -121,7 +121,7 @@ Contributions from revenue operations practitioners, sales tech engineers, and o
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Add or update entries**: Ensure SaaS additions include company scale, starting tier prices, and explicit free tier/trial limits. Ensure open-source additions include the official GitHub star badge format (`style=social&color=white`) linking to `/stargazers`.
+3. 📝 **Add or update entries**: Ensure SaaS additions include company scale, starting tier prices, and explicit free tier/trial limits. Ensure open-source additions include the official GitHub Stars_Badge format (`style=social&color=white`) linking to `/stargazers`.
 4. 🚀 **Commit your changes**: `git commit -m 'Add ToolName to Sales Engagement ecosystem'`.
 5. 📤 **Push and submit a Pull Request** with a concise description of why the tool is valuable.
 
