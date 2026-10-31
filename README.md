@@ -71,7 +71,7 @@ The table below lists leading commercial CRM and sales engagement suites, sorted
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-The table below lists top open-source CRM platforms, sales engagement automation suites, and outbound outreach tools, ranked in descending order by **GitHub Stars_Count**.
+The table below lists top open-source CRM platforms, sales engagement automation suites, and outbound outreach tools, ranked in descending order by **GitHub_Stars_Count**.
 
 | Repository | ⭐ GitHub_Stars | 🎯 Primary Focus &amp; Architecture | 📜 License |
 | :--- | :--- | :--- | :--- |
@@ -121,7 +121,7 @@ Contributions from revenue operations practitioners, sales tech engineers, and o
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Add or update entries**: Ensure SaaS additions include company scale, starting tier prices, and explicit free tier/trial limits. Ensure open-source additions include the official GitHub Stars_Badge format (`style=social&color=white`) linking to `/stargazers`.
+3. 📝 **Add or update entries**: Ensure SaaS additions include company scale, starting tier prices, and explicit free tier/trial limits. Ensure open-source additions include the official GitHub_Stars_Badge format (`style=social&color=white`) linking to `/stargazers`.
 4. 🚀 **Commit your changes**: `git commit -m 'Add ToolName to Sales Engagement ecosystem'`.
 5. 📤 **Push and submit a Pull Request** with a concise description of why the tool is valuable.
 
